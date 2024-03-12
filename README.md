@@ -14,3 +14,6 @@
 
 ejemplo del resumen por corrida
 ![Captura desde 2024-03-12 15-41-24](https://github.com/MoyMontes/Scraper/assets/45276668/0a7e8ece-c45e-40bd-b80c-84e1fead84bd)
+
+
+Aunque actualmente carezco de experiencia y práctica en ciertos aspectos, estoy plenamente comprometido a mejorar y perfeccionar mis habilidades con el tiempo. Reconozco que el camino hacia el dominio en cualquier área requiere dedicación y esfuerzo constante. Estoy seguro de que con cada proyecto en el que me involucre y con cada obstáculo que supere, aprenderé y creceré. 
