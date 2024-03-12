@@ -96,3 +96,7 @@ def resume_parquet():
 def main():
 	sql()
     resume_parquet()
+
+if __name__ == "__main__":
+    main()
+
